@@ -1,0 +1,67 @@
+{
+  "added": [
+    {
+      "key": {
+        "sku": "003",
+        "warehouse": "jaipur"
+      },
+      "row": {
+        "name": "Cocoa",
+        "sku": "003",
+        "stock": "6",
+        "updated_at": "2026-10-02",
+        "warehouse": "jaipur"
+      }
+    }
+  ],
+  "changed": [
+    {
+      "cells": {
+        "stock": {
+          "after": "10",
+          "before": "12"
+        }
+      },
+      "key": {
+        "sku": "001",
+        "warehouse": "jaipur"
+      }
+    }
+  ],
+  "columns": {
+    "added": [],
+    "removed": []
+  },
+  "format_version": 1,
+  "ignored_columns": [
+    "updated_at"
+  ],
+  "keys": [
+    "warehouse",
+    "sku"
+  ],
+  "removed": [
+    {
+      "key": {
+        "sku": "002",
+        "warehouse": "jaipur"
+      },
+      "row": {
+        "name": "Coffee",
+        "sku": "002",
+        "stock": "8",
+        "updated_at": "2026-10-01",
+        "warehouse": "jaipur"
+      }
+    }
+  ],
+  "summary": {
+    "added": 1,
+    "after_rows": 3,
+    "before_rows": 3,
+    "changed": 1,
+    "has_differences": true,
+    "removed": 1,
+    "unchanged": 1
+  }
+}
