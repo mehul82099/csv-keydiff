@@ -1,0 +1,4 @@
+sku,warehouse,name,stock,updated_at
+001,delhi,Tea,4,2026-10-02
+003,jaipur,Cocoa,6,2026-10-02
+001,jaipur,Tea,10,2026-10-02
